@@ -1,0 +1,4 @@
+-aqui se guardan todas las imagenes necesarias para el funcionamiento de la paguina
+
+
+-All the images necessary for the operation of the page are stored here
